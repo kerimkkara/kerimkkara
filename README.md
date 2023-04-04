@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## İletişim
+
+- E-posta: janedoe@example.com
+- Twitter: @janedoe
+- LinkedIn: linkedin.com/in/janedoe
+
